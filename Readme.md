@@ -24,7 +24,7 @@
 
 
 ## Opcion 2
-![Imagen no encontrada](/imagen/pantalla2.jpg "Pantalla de muestra")
+![Imagen no encontrada](/imagen/pantalla2.JPG "Pantalla de muestra")
 
 ## Opcion
 \  barra invertida
@@ -38,8 +38,6 @@ _  guión bajo
 
 
 <http://www.ipn.net>
-
-![Imagen no encontrada](/imagen/pantalla.jpg "Pantalla de muestra")
 
 # Puedes generar un ejecutable con el comando
 
