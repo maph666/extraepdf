@@ -24,7 +24,7 @@
 
 
 ## Opcion 2
-![Imagen no encontrada](/imagen/pantalla2.JPG "Pantalla de muestra")
+![Imagen no encontrada](/imagen/pantalla2.jpg "Pantalla de muestra")
 
 ## Opcion
 \  barra invertida
